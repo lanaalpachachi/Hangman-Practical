@@ -1,9 +1,4 @@
 # Hangman-Practical
 
-Project Title
-Table of Contents, if the README file is long
-A description of the project: what it does, the aim of the project, and what you learned
-Installation instructions
-Usage instructions
-File structure of the project
-License information
+This is my first attempt at creating a Hangman game. It should be a simple, user friendly game of hangman between a human and the computer. I am learning to create and build a project. 
+
